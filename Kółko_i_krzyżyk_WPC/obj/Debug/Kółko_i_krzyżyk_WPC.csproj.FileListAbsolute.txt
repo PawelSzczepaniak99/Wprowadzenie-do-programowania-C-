@@ -1,0 +1,9 @@
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\bin\Debug\Kółko_i_krzyżyk_WPC.exe.config
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\bin\Debug\Kółko_i_krzyżyk_WPC.exe
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\bin\Debug\Kółko_i_krzyżyk_WPC.pdb
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\obj\Debug\Kółko_i_krzyżyk_WPC.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\obj\Debug\Kółko_i_krzyżyk_WPC.Form1.resources
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\obj\Debug\Kółko_i_krzyżyk_WPC.Properties.Resources.resources
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\obj\Debug\Kółko_i_krzyżyk_WPC.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\obj\Debug\Kółko_i_krzyżyk_WPC.exe
+C:\Users\Paweł\source\repos\Kółko_i_krzyżyk_WPC\obj\Debug\Kółko_i_krzyżyk_WPC.pdb
