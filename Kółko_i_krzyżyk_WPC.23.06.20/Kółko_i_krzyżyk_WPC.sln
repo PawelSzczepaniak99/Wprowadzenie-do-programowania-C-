@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kółko_i_krzyżyk_WPC", "Kółko_i_krzyżyk_WPC.csproj", "{CF9B02AC-E240-4005-AE75-29ABB2C90455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logika", "..\Logika\Logika.csproj", "{1749FD93-3BE8-4548-BB41-07328651E7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9B02AC-E240-4005-AE75-29ABB2C90455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9B02AC-E240-4005-AE75-29ABB2C90455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9B02AC-E240-4005-AE75-29ABB2C90455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9B02AC-E240-4005-AE75-29ABB2C90455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1749FD93-3BE8-4548-BB41-07328651E7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1749FD93-3BE8-4548-BB41-07328651E7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1749FD93-3BE8-4548-BB41-07328651E7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1749FD93-3BE8-4548-BB41-07328651E7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2A1A373-B4DE-434F-85A9-D0C586B7D34D}
+	EndGlobalSection
+EndGlobal
